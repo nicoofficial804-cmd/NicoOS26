@@ -1,1 +1,2 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
+NicoOS.exe filter=lfs diff=lfs merge=lfs -text
